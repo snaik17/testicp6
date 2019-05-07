@@ -1,0 +1,2 @@
+FROM websphere-liberty
+COPY HelloFromLiberty.war /config/dropins/HelloFromLiberty.war
